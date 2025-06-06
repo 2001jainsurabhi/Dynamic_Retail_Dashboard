@@ -103,6 +103,20 @@ Contains details about sales representatives and their respective regions.
 * Sort + filter top 5
 * Create Column Chart
 
+## 📌 Key Performance Indicators (KPIs)
+
+The dashboard highlights essential metrics using symbols to improve clarity and design. Here is the KPI summary as shown in the dashboard:
+
+| KPI Name         | Description             | Symbol | Unicode        |
+|------------------|--------------------------|--------|----------------|
+| **Total Sales**     | Overall revenue earned    | 📈     | `U+1F4C8` (📈)   |
+| **Total Profit**    | Net earnings after costs  | 💰     | `U+1F4B0` (💰)   |
+| **Total Quantity**  | Total units sold          | 📦     | `U+1F4E6` (📦)   |
+| **No. of Orders**   | Total order count         | 🛒     | `U+1F6D2` (🛒)   |
+| **Profit Margin**   | Profit-to-sales ratio     | 📊     | `U+1F4CA` (📊)   |
+
+> These symbols are included using Excel’s `UNICHAR()` function or pasted directly, enhancing the readability and visual design of the KPI section.
+
 ### ⚙️ Dynamic Features
 
 * **Dynamic Charts:** Real-time updates via slicers
